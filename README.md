@@ -31,14 +31,12 @@ The dashboard includes three main slicers/timeline controls:
 
 * **Year (`AÑO`)**
   Timeline covering **2003–2024**, allowing users to analyze traffic evolution over time.
-  You can select a single year or a range (e.g., 2010–2018).
+  You can select a single year or a range (e.g., 2015–2016).
 
 ### How to Use (Excel)
 
 1. Click slicer buttons to filter; hold **Ctrl** to multi-select.
 2. Use the **Year timeline** to define the analysis period (2003–2024).
-3. To clear filters, click the **Clear Filter** icon on each slicer/timeline.
-4. Ensure all visuals and KPIs remain connected to slicers via **PivotTable Analyze ▸ Filter Connections**.
 
 ---
 
@@ -71,6 +69,3 @@ Each visualization is dynamically updated according to the filters selected.
 * **Organization:** Organismo Supervisor de la Inversión Privada en Telecomunicaciones (OSIPTEL)
 * **Coverage:** Peru, 2003–2024
 * **Format:** CSV (Processed in Excel)
-
-
-
